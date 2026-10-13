@@ -23,7 +23,6 @@ An AI-powered language translation project built using Python and Hugging Face T
 AI-Language-Translator/
 ├── AI_Translator_Dilli_rani_(12_10_26)_.ipynb
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
@@ -42,14 +41,7 @@ AI-Language-Translator/
 git clone https://github.com/DilliRani2/AI-Language-Translator.git
 cd AI-Language-Translator
 ```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the notebook
+### 2. Run the notebook
 
 Open the notebook using Jupyter Notebook or Google Colab.
 
